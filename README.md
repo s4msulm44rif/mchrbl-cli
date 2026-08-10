@@ -85,3 +85,6 @@ ubl-go
 8. Selesai
 
 **Catatan:** Jika menu **Unlock Bootloader** tidak muncul di aplikasi **[Mi Community](https://play.google.com/store/apps/details?id=com.mi.global.bbs)** ubah region ke **Global.**
+
+video tutorial:
+https://youtu.be/kuytQ8vuofA
